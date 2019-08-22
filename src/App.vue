@@ -3,7 +3,7 @@
     <v-app-bar app>
       <v-toolbar-title class="headline text-uppercase">
         <span>My</span>
-        <span class="font-weight-light">GOLFCOACHES</span>
+        <span class="font-weight-light">VUE</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn
